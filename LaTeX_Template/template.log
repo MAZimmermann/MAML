@@ -1,0 +1,646 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.7.7)  7 JUL 2022 19:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./template.tex
+(template.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scra
+rtcl.cls
+Document Class: scrartcl 2022/05/01 v3.36 KOMA-Script document class (article)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrk
+base.sty
+Package: scrkbase 2022/05/01 v3.36 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrb
+ase.sty
+Package: scrbase 2022/05/01 v3.36 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrl
+file.sty
+Package: scrlfile 2022/05/01 v3.36 KOMA-Script package (file load hooks)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrl
+file-hook.sty
+Package: scrlfile-hook 2022/05/01 v3.36 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrl
+ogo.sty
+Package: scrlogo 2022/05/01 v3.36 KOMA-Script package (logo)
+)))
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.
+sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocb
+asic.sty
+Package: tocbasic 2022/05/01 v3.36 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 135.
+Package scrartcl Info: You've used standard option `10pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=10pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=10pt' there
+(scrartcl)             instead of `10pt', too.
+Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
+ine 2255.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrs
+ize10pt.clo
+File: scrsize10pt.clo 2022/05/01 v3.36 KOMA-Script font size class option (10pt
+)
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\type
+area.sty
+Package: typearea 2022/05/01 v3.36 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+Package typearea Info: You've used standard option `letterpaper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=letter'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=letter' there
+(typearea)             instead of `letterpaper', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+
+
+Package typearea Warning: Bad type area settings!
+(typearea)                The detected line width is about 32%
+(typearea)                larger than the heuristically estimated maximum
+(typearea)                limit of typographical good line width.
+(typearea)                You should e.g. decrease DIV, increase fontsize
+(typearea)                or change papersize.
+
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 13
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 614.295pt
+(typearea)              \textwidth      = 472.53465pt
+(typearea)              DIV departure   = -32%
+(typearea)              \evensidemargin = -1.38982pt
+(typearea)              \oddsidemargin  = -1.38982pt
+(typearea)             \paperheight     = 794.96999pt
+(typearea)              \textheight     = 622.0pt
+(typearea)              \topmargin      = -44.11845pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 1744.
+)
+\c@part=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\scr@dte@section@maxnumwidth=\skip53
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4833.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4833.
+\scr@dte@part@maxnumwidth=\skip54
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4841.
+\scr@dte@subsection@maxnumwidth=\skip55
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4851.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4851.
+\scr@dte@subsubsection@maxnumwidth=\skip56
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4861.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4861.
+\scr@dte@paragraph@maxnumwidth=\skip57
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4872.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4872.
+\scr@dte@subparagraph@maxnumwidth=\skip58
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4882.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4882.
+\abovecaptionskip=\skip59
+\belowcaptionskip=\skip60
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6038.
+
+\scr@dte@figure@maxnumwidth=\skip61
+\c@figure=\count192
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6054.
+
+\scr@dte@table@maxnumwidth=\skip62
+\c@table=\count193
+Class scrartcl Info: Redefining `\numberline' on input line 6224.
+\bibindent=\dimen138
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.st
+y
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel
+.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cf
+g
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\en
+glish.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.
+sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip63
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.
+sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.s
+ty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen140
+))
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.s
+ty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.s
+ty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks18
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks19
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks20
+\multlinegap=\skip64
+\multlinetaggap=\skip65
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfont
+s.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.st
+y
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip66
+\thm@postskip=\skip67
+\thm@headsep=\skip68
+\dth@everypar=\toks27
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.st
+y
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.s
+ty
+Package: expl3 2022-02-24 L3 programming layer (loader) 
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3back
+end-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box54
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpars
+e\xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbo
+x.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
+))
+Class scrartcl Info: amsthm's \deferred@thm@head patched.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfrac
+\xfrac.sty
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+x.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphic
+s.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.st
+y
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gra
+phics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdf
+tex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3key
+s2e\l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.st
+y
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xtemp
+late\xtemplate.sty
+Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen151
+\l__xtemplate_tmp_int=\count276
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip69
+)
+Package: xfrac 2022-01-12 L3 Experimental split-level fractions
+\l__xfrac_slash_box=\box55
+\l__xfrac_tmp_box=\box56
+\l__xfrac_denominator_bot_sep_dim=\dimen152
+\l__xfrac_numerator_bot_sep_dim=\dimen153
+\l__xfrac_numerator_top_sep_dim=\dimen154
+\l__xfrac_slash_left_sep_dim=\dimen155
+\l__xfrac_slash_right_sep_dim=\dimen156
+\l__xfrac_slash_left_muskip=\muskip18
+\l__xfrac_slash_right_muskip=\muskip19
+
+Package xtemplate Info: Declaring object type 'xfrac' taking 3 argument(s) on
+(xtemplate)             line 80.
+
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.
+sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+)
+
+Class scrartcl Warning: Incompatible package `sectsty' loaded!
+(scrartcl)              Package `sectsty' up to version 2.0.2 is incompatible
+(scrartcl)              with KOMA-Script from version 2.8e released in 2001.
+(scrartcl)              You should avoid that package and configure the
+(scrartcl)              section titles of your document using the KOMA-Script
+(scrartcl)              user interface, e.g., \chapterlinesformat,
+(scrartcl)              \RedeclareSectionCommand etc. or you should ask
+(scrartcl)              the `sectsty' maintainer for a more compatible release.
+
+(scrartcl)              Ignoring this warning could result in several error
+(scrartcl)              messages and formatting issues after loading package
+(scrartcl)              `sectsty' on input line 24.
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/algorithm2e\algo
+rithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count277
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip70
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddp
+age.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count278
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.
+sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip71
+\skiplinenumber=\skip72
+\skiprule=\skip73
+\skiphlne=\skip74
+\skiptext=\skip75
+\skiplength=\skip76
+\algomargin=\skip77
+\skipalgocfslide=\skip78
+\algowidth=\dimen157
+\inoutsize=\dimen158
+\inoutindent=\dimen159
+\interspacetitleruled=\dimen160
+\interspacealgoruled=\dimen161
+\interspacetitleboxruled=\dimen162
+\algocf@ruledwidth=\skip79
+\algocf@inoutbox=\box57
+\algocf@inputbox=\box58
+\AlCapSkip=\skip80
+\AlCapHSkip=\skip81
+\algoskipindent=\skip82
+\algocf@nlbox=\box59
+\algocf@hangingbox=\box60
+\algocf@untilbox=\box61
+\algocf@skipuntil=\skip83
+\algocf@capbox=\box62
+\algocf@lcaptionbox=\skip84
+\algoheightruledefault=\skip85
+\algoheightrule=\skip86
+\algotitleheightruledefault=\skip87
+\algotitleheightrule=\skip88
+\c@algocfline=\count279
+\c@algocfproc=\count280
+\c@algocf=\count281
+\algocf@algoframe=\box63
+\algocf@algobox=\box64
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/listings\listing
+s.sty
+\lst@mode=\count282
+\lst@gtempboxa=\box65
+\lst@token=\toks28
+\lst@length=\count283
+\lst@currlwidth=\dimen163
+\lst@column=\count284
+\lst@pos=\count285
+\lst@lostspace=\dimen164
+\lst@width=\dimen165
+\lst@newlines=\count286
+\lst@lineno=\count287
+\lst@maxwidth=\dimen166
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc
+.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count288
+\lst@skipnumbers=\count289
+\lst@framebox=\box66
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/listings\listing
+s.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+
+Class scrartcl Warning: Usage of package `parskip' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use option
+(scrartcl)              `parskip' with one of it's several values.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `parskip' on input line 28.
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.
+sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopti
+ons.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmd
+s.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvse
+tkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+Couldn't patch \@startsection
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpag
+e.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer' or `scrlayer-scrpage', because
+(scrartcl)              they support KOMA-Script classes.
+(scrartcl)              With `fancyhdr' several features of class `scrartcl'
+(scrartcl)              like options `headsepline', `footsepline' or command
+(scrartcl)              `\MakeMarkcase' and the commands `\setkomafont' and
+(scrartcl)              `\addtokomafont' for the page style elements need
+(scrartcl)              explicite user intervention to work.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 33.
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhd
+r.sty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip89
+\f@nch@O@elh=\skip90
+\f@nch@O@erh=\skip91
+\f@nch@O@olh=\skip92
+\f@nch@O@orh=\skip93
+\f@nch@O@elf=\skip94
+\f@nch@O@erf=\skip95
+\f@nch@O@olf=\skip96
+\f@nch@O@orf=\skip97
+) (template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+Package scrbase Info: activating english \abstractname on input line 78.
+Package scrbase Info: activating english \partname on input line 78.
+Package scrbase Info: activating english \figurename on input line 78.
+Package scrbase Info: activating english \tablename on input line 78.
+Package scrbase Info: activating english \contentsname on input line 78.
+Package scrbase Info: activating english \listfigurename on input line 78.
+Package scrbase Info: activating english \listtablename on input line 78.
+Package scrbase Info: activating english \refname on input line 78.
+Package scrbase Info: activating english \indexname on input line 78.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp
+-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen167
+\scratchbox=\box67
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen168
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks30
+)
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\eps
+topdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count296
+
+Couldn't patch \deferred@thm@head!
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 78.
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 8
+0.
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 80.
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 80.
+
+
+(C:\Users\MAZimmermann\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (template.bbl
+
+Class scrartcl Warning: Incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 1.
+
+) 
+AED: lastpage setting LastPage
+[1
+
+
+{C:/Users/MAZimmermann/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(template.aux) ) 
+Here is how much of TeX's memory you used:
+ 10357 strings out of 478582
+ 198932 string characters out of 2841041
+ 636882 words of memory out of 3000000
+ 28409 multiletter control sequences out of 15000+600000
+ 479358 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 108i,11n,106p,10605b,281s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\MAZimmermann\AppData\Local\MiKTeX\fonts/pk/ljfour/jk
+nappen/ec/dpi600\ecti1000.pk> <C:\Users\MAZimmermann\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\MAZimmermann\AppData\Local
+\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\MAZimmermann\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\
+MAZimmermann\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.p
+k>
+Output written on template.pdf (1 page, 28321 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
